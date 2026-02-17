@@ -30,7 +30,7 @@ Low-level developer specializing in systems programming
 
 ## Featured Projects
 
-- **[Minishell](https://github.com/1Fr3aK2/dsteiger42/minishell)**  
+- **[Minishell](https://github.com/dsteiger42/minishell)**  
   Custom UNIX shell written in C
 
 - **[Cub3D](https://github.com/dsteiger42/cub3d)**  
