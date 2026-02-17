@@ -24,18 +24,18 @@ Low-level developer specializing in systems programming
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
 </p>
 
-## 🚀 Featured Projects
 
-- 🐚 **[Minishell](https://github.com/dsteiger42/minishell)**  
+## Featured Projects
+
+- **[Minishell](https://github.com/dsteiger42/minishell)**  
   Custom UNIX shell written in C
 
-- 🎮 **[Cub3D](https://github.com/dsteiger42/cub3d)**  
+- **[Cub3D](https://github.com/dsteiger42/cub3d)**  
   Raycasting-based 3D engine in C
 
-- 🌐 **[Webserver](https://github.com/dsteiger42/webserver)**  
+- **[Webserver](https://github.com/dsteiger42/webserver)**  
   Low-level HTTP/1.1 web server
 
-- 🐳 **[Inception](https://github.com/dsteiger42/inception)**  
+- **[Inception](https://github.com/dsteiger42/inception)**  
   Dockerized infrastructure with Nginx, WordPress, and MariaDB
-
-
+  
