@@ -2,11 +2,11 @@
 Low-level developer specializing in systems programming
 
 ### About Me
-42 School student
-Currently working in creating an HTTP webserver
-Strong background in C and UNIX systems programming
-Experience with process management, file descriptors, memory handling and networking
-Focused on building a solid foundation in Cybersecurity
+- 42 School student
+- Currently working in creating an HTTP webserver
+- Strong background in C and UNIX systems programming
+- Experience with process management, file descriptors, memory handling and networking
+- Focused on building a solid foundation in Cybersecurity
 
 ## Tech Stack
 
