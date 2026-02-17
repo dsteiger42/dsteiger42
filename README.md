@@ -24,6 +24,7 @@ Low-level developer specializing in systems programming
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
 </p>
 
+---
 
 ## Featured Projects
 
