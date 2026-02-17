@@ -24,28 +24,18 @@ Low-level developer specializing in systems programming
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
 </p>
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Minishell
-A custom UNIX shell written in C, supporting pipes, redirections, environment variables, and signal handling.
-https://github.com/USERNAME/minishell
+- 🐚 **[Minishell](https://github.com/USERNAME/minishell)**  
+  Custom UNIX shell written in C
 
----
+- 🎮 **[Cub3D](https://github.com/USERNAME/cub3d)**  
+  Raycasting-based 3D engine in C
 
-### Cub3D
-A raycasting-based 3D game inspired by Wolfenstein 3D, built from scratch in C.  
-https://github.com/USERNAME/cub3d
+- 🌐 **[HTTP Webserver](https://github.com/USERNAME/webserver)**  
+  Low-level HTTP/1.1 web server
 
----
-
-### HTTP Webserver
-An HTTP/1.1 web server written in C++, focusing on low-level networking, concurrency, and performance.  
-https://github.com/USERNAME/webserver
-
----
-
-### Inception
-A Docker-based infrastructure project deploying WordPress, Nginx, and MariaDB using Docker Compose.  
-https://github.com/USERNAME/inception
+- 🐳 **[Inception](https://github.com/USERNAME/inception)**  
+  Dockerized infrastructure with Nginx, WordPress, and MariaDB
 
 
