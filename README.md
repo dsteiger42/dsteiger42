@@ -8,6 +8,8 @@ Low-level developer specializing in systems programming
 - Experience with process management, file descriptors, memory handling and networking
 - Focused on building a solid foundation in Cybersecurity
 
+---
+
 ## Tech Stack
 
 ### Languages
