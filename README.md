@@ -1,4 +1,4 @@
-## Hello, I'm Duarte
+## 👋 Hello, I'm Duarte
 Low-level developer specializing in systems programming
 
 ### About Me
